@@ -10,8 +10,8 @@ function Home() {
       <div className="container">
         <div className="row">
           <div className="col-12 text-center">
-            <img src="./src/assets/main-logo.png" alt="" width={100} />
-            <img src="./src/assets/Copy of Tamaran_Logo_BROWN.png" alt="" width={60} />
+            <img src="../src/assets/main-logo.png" alt="" width={100} />
+            <img src="../src/assets/Copy of Tamaran_Logo_BROWN.png" alt="" width={60} />
           </div>
         </div>
       </div>
