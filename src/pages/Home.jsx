@@ -43,7 +43,7 @@ function Home() {
       <section id="surfCamps" className="container my-3 py-3">
         <div className="row py-3">
           <div className="col-12 text-center">
-            <h1 className="h1 fw-light font-sec">2024 SURF CAMPS IN WONDERFUL DESTINATIONS</h1> 
+            <h1 className="h1 fw-light font-sec">2023 SURF CAMPS IN WONDERFUL DESTINATIONS</h1> 
           </div>
         </div>
         <div className="row py-3 justify-content-center">
