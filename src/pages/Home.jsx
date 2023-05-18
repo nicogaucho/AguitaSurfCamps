@@ -10,8 +10,8 @@ function Home() {
       <div className="container">
         <div className="row">
           <div className="col-12 text-center">
-            <img src="../src/assets/main-logo.png" alt="" width={100} />
-            <img src="../src/assets/Copy of Tamaran_Logo_BROWN.png" alt="" width={60} />
+            <img src="./assets/main-logo.png" alt="" width={100} />
+            <img src="./assets/Copy of Tamaran_Logo_BROWN.png" alt="" width={60} />
           </div>
         </div>
       </div>
@@ -55,7 +55,7 @@ function Home() {
         <div className="row justify-content-center">
           <div className="col-6 col-md-4">
             <div className="card text-center border-0">
-              <img src="./src/assets/Asset 7.png" alt="" width={100} className='d-block mx-auto' />
+              <img src="./assets/Asset 7.png" alt="" width={100} className='d-block mx-auto' />
               <p className='font-sec fw-bold h3 mt-4'>GRAN CANARIA</p>
               <p className='font-sec fw-bold text-uppercase'>from 3rd july</p>
               <div>
@@ -67,7 +67,7 @@ function Home() {
           </div>
           <div className="col-6 col-md-4">
           <div className="card text-center border-0">
-              <img src="./src/assets/Asset 6.png" alt="" width={115} className='d-block mx-auto' />
+              <img src="./assets/Asset 6.png" alt="" width={115} className='d-block mx-auto' />
               <p className='font-sec fw-bold h3 mt-4'>PORTUGAL</p>
               <p className='font-sec fw-bold text-uppercase'>from 17th july</p>
               <div>
@@ -90,7 +90,7 @@ function Home() {
         <div className="row mb-5">
           <div className="col-12 col-md-3">
             <div className="card border-0 text-center">
-              <img src="./src/assets/2tbxRC.tif.png" width={45} className="d-block mx-auto" alt="" />
+              <img src="./assets/2tbxRC.tif.png" width={45} className="d-block mx-auto" alt="" />
               <p className="font-sec fw-bold text-uppercase mt-3">
                 world-class surf spots
               </p>
@@ -98,7 +98,7 @@ function Home() {
           </div>
           <div className="col-12 col-md-3">
             <div className="card border-0 text-center">
-                <img src="./src/assets/bjJDw6.tif.png" width={138} className="d-block mx-auto" alt="" />
+                <img src="./assets/bjJDw6.tif.png" width={138} className="d-block mx-auto" alt="" />
                 <p className="font-sec fw-bold text-uppercase mt-3">
                   private villa accomodation
                 </p>
@@ -106,7 +106,7 @@ function Home() {
           </div>
           <div className="col-12 col-md-3">
             <div className="card border-0 text-center">
-                <img src="./src/assets/dhpzq1.tif.png" width={133} className="d-block mx-auto" alt="" />
+                <img src="./assets/dhpzq1.tif.png" width={133} className="d-block mx-auto" alt="" />
                 <p className="font-sec fw-bold text-uppercase mt-3">
                   fresh and healthy breakfast
                 </p>
@@ -114,7 +114,7 @@ function Home() {
           </div>
           <div className="col-12 col-md-3">
             <div className="card border-0 text-center">
-                <img src="./src/assets/RmZnC1.png" width={100} className="d-block mx-auto" alt="" />
+                <img src="./assets/RmZnC1.png" width={100} className="d-block mx-auto" alt="" />
                 <p className="font-sec fw-bold text-uppercase mt-3">
                   community and good vibes 
                 </p>
@@ -132,7 +132,7 @@ function Home() {
       <section id="accomodation" className="container my-5 py-5">
         <div className="row align-items-center">
           <div className="col-12 col-md-6 mb-4">
-            <img src="./src/assets/accomodation/accomodation04.jpg" alt="" className="img-fluid" />
+            <img src="./assets/accomodation/accomodation04.jpg" alt="" className="img-fluid" />
           </div>
           <div className="col-12 col-md-6 mb-4">
             <p className="font-sec h2 text-uppercase mb-3">Accomodation</p>
@@ -146,7 +146,7 @@ function Home() {
       <section id="surfLessons" className="container my-5 py-5">
         <div className="row align-items-center">
           <div className="col-12 col-md-6 mb-4 order-md-last">
-            <img src="./src/assets/surfing/surf01.jpg" alt="" className="img-fluid" />
+            <img src="./assets/surfing/surf01.jpg" alt="" className="img-fluid" />
           </div>
           <div className="col-12 col-md-6 mb-4">
             <p className="font-sec h2 text-uppercase mb-3">surf lessons</p>
@@ -161,12 +161,12 @@ function Home() {
         <div className="row align-items-center justify-content-around">
           <div className="col-12 col-md-4 mb-4">
             <p className="font-sec h2 text-uppercase mb-3">Breakfast Options</p>
-            <img src="./src/assets/breakfast/breakfast02.jpg" alt="" className="img-fluid" />
+            <img src="./assets/breakfast/breakfast02.jpg" alt="" className="img-fluid" />
             <p className="mt-3">We understand that comfort and convenience are essential to a successful surfing experience, which is why we provide high-quality accommodations and healthy breakfasts. Our experienced and friendly local instructors will guide you through every step of your surfing journey, ensuring that you feel confident and prepared.</p>
           </div>
           <div className="col-12 col-md-4 mb-4">
             <p className="font-sec h2 text-uppercase mb-3 text-end">Exploring Together</p>
-            <img src="./src/assets/explore/explore01.jpg" alt="" className="img-fluid" />
+            <img src="./assets/explore/explore01.jpg" alt="" className="img-fluid" />
             <p className="mt-3">Immerse yourself in the vibrant sights, sounds, and flavors of the city! As part of our surf camp package, we offer an exhilarating city trip that allows you to explore the rich culture and hidden gems of the destination. Whether it&apos;s wandering through historical landmarks, browsing local markets, or experiencing the lively nightlife, our city trip is designed to complement your surf adventure and create unforgettable memories. </p>
           </div>
         </div>
@@ -187,7 +187,7 @@ function Home() {
         <footer className="py-5">
           <div className="row align-items-center">
             <div className="col-12 col-md-4 mb-3 text-center text-md-start">
-              <img src="./src/assets/main-logo.png" width={100} alt="" />
+              <img src="./assets/main-logo.png" width={100} alt="" />
               <p>Paseo de las Canteras 53, <br />
               35010 Las Palmas of Gran Canaria <br />
               Spain</p>

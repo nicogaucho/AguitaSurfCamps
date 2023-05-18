@@ -9,7 +9,7 @@
 #hero {
   height: 50vh;
   width: 100vw;
-  background: url("./assets/surfing/surf05.jpg");
+  background: url("../public/assets/surfing/surf05.jpg");
   background-position: 0% 40%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -58,7 +58,7 @@ p {
 
 .bg-getTouch {
   height: 75vh;
-  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("./src/assets/jeremy-bishop-zam3m6W2npM-unsplash.jpg");
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("../public/assets/jeremy-bishop-zam3m6W2npM-unsplash.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
