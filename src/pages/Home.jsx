@@ -4,7 +4,7 @@ function Home() {
   return (
     <div>
       <PopupButton id="z3k5JPLG" className='popup-quote'>
-        Free quote
+        Info & prices
       </PopupButton>
   
       <div className="container">
@@ -171,16 +171,18 @@ function Home() {
           </div>
         </div>
       </section>
-      <section className="container-fluid bg-getTouch my-5 py-5">
-        <div className="row h-100 justify-content-center align-items-center">
+      <section className='container my-3 py-3'>
+      <div className="row h-100 justify-content-center align-items-center">
           <div className="col-12 col-md-8 text-center">
-            <p className="font-sec h2">GET A FREE QUOTE</p>
+            <p className="font-sec h2 text-up">How to reserve your spot</p>
             <p className="mt-4">Ready to book your surf adventure? Contact us now to secure your spot and embark on an incredible experience. Our team is here to assist you with the booking process and ensure you have all the information you need. Don&apos;t miss out on the opportunity to join our surf camps. Get in touch today!</p>
             <button className="btn-book">
-              <a href="https://5xv350d4myo.typeform.com/to/z3k5JPLG" target='blank' className="text-decoration-none text-white">Free Quote</a>
+              <a href="https://5xv350d4myo.typeform.com/to/z3k5JPLG" target='blank' className="text-decoration-none text-white">More info & prices</a>
             </button>
           </div>
         </div>
+      </section>
+      <section className="container-fluid bg-getTouch my-5 py-5">
       </section>
 
       <div className="container">
