@@ -1,13 +1,13 @@
 import { Routes, Route } from 'react-router-dom';
-import { Analytics } from '@vercel/analytics/react';
+import { inject } from '@vercel/analytics';
 import Home from './pages/Home';
 import Surf from './pages/Surf';
 import Accomodation from './pages/Accomodation';
 
 function App() {
+  inject();
   return (
     <div>
-      <Analytics />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/surfing' element={<Surf />} />
@@ -16,5 +16,4 @@ function App() {
     </div>
   )
 }
-
-export default App
+export default App;
