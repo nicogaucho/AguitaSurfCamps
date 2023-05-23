@@ -1,11 +1,9 @@
 import { Routes, Route } from 'react-router-dom';
-import { inject } from '@vercel/analytics';
 import Home from './pages/Home';
 import Surf from './pages/Surf';
 import Accomodation from './pages/Accomodation';
 
 function App() {
-  inject();
   return (
     <div>
       <Routes>
